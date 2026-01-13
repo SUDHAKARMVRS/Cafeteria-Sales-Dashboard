@@ -111,6 +111,10 @@ The dashboard helps identify:
 - Power BI
 
 ---
+## 📸 Screenshot
+<img width="1920" height="1008" alt="Screenshot 2026-01-13 125808" src="https://github.com/user-attachments/assets/c4afd688-eec1-4c79-a316-69312d52f487" />
+
+---
 
 ## 📌 Conclusion
 This project demonstrates an end-to-end **data analysis workflow** — from raw data to interactive dashboards — and showcases practical skills required for a **Data Analyst role**.
@@ -121,5 +125,3 @@ This project demonstrates an end-to-end **data analysis workflow** — from raw 
 **Sudhakar M**
 
 ---
-
-⭐ Feel free to explore, modify, and enhance this project!
